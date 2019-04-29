@@ -1,5 +1,5 @@
 # Posture_detection
-This repository contains the code of a simple binary classification model that takes pictures from upright and crouch postures and outputs the posture attained by the person in the photo. 
+This repository contains the code of a simple binary classification model that takes pictures from upright and crouch postures and outputs the posture attained by the person in the photo. The end goal of this project is to create a more sofisticated posture clasifier that helps us assess the posture of patients with muskuloskeletal impairments. 
 
 Some of the pictures used for training and testing the models where taken from the data collected for my [Master's thesis](https://tspace.library.utoronto.ca/handle/1807/70400), whose repository can be found [here](https://github.com/Monida/Masters-thesis), and some others from google images. 
 
