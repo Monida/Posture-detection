@@ -10,4 +10,4 @@ The number of pictures used for each case is described below. Two equally distri
 
 Since there were only a few pictures available, the ImageDataGenerator class from Keras was used to augment the pictures used for training the model.
 
-The data is only availabe upon request and on a base-to-base case, since it belongs to the Hospital where the experiments took place.
+The data is only availabe upon request and on a base-to-base case, since some of the pictures belong to the facility where the experiments took place.
